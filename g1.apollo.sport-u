@@ -1,0 +1,46 @@
+
+
+# Compte-rendu réunion de lancement : Prompt-it
+
+* Equipe MOE : sport-u
+* Equipe MOA : apollo
+
+Secretaire : Michel Livney, équipe sport-u
+
+## Présentation du projet Prompt-it (15h17)
+Prompt-it est une application qui a pour objectif de permettre à ses utilisateurs de se servir de leur téléphone portable ou leur pc comme d'un prompteur pour une présentation ou un discours.
+Elle proposera ainsi d'importer où d'éditer un document, de le modifier et de le projeter sur un écran sous la forme d'un prompteur.
+
+Cette application se destine surtout à des professionnels mais devra aussi être accessible à des particuliers comme par exemple des étudiants.
+
+## Zones d'ombres (15h32)
+
+* L'application est bien multi-plateforme (PC, IOS, Android), avec les mêmes fonctionnalités pour tout les supports
+* L'application proposera de projeter l'image grâce à un rétroprojecteur
+* Les formats des discours seront des .txt/.odt/.doc/.pdf
+* L'application est destinée au grand public : l'interface et l'ergonomie devront être adapté à tous
+* Afin d'établir une connexion entre les plateformes, les discours seront enregistrés sur le cloud du compte utilisateur
+
+## Listes des cas d'utilisations (16h10)
+
+L'application devra proposer:
+*CA-01: Créer/éditer un discours
+*CA-02: Importer un discours (principalement sous format .txt, .odt, .doc et .pdf)
+*CA-03: Configurer le prompteur en permettant de gerer la forme d'affichage du texte (mettre en avant les mots importants, gerer la police, etc) mais aussi les paramètre propre au prompteur (vitesse de défilement adaptable où non au rythme de parole, etc)
+*CA-04: Projeter l'image du prompteur sur un écran
+*CA-05: Créer un compte personnel et de s'abonner pour débloquer toute les fonctionalités de l'application
+*CA-06: Gérer la présentation qui devra s'occuper du bon enchainement des diapositives et de l'audio lors de la présentation
+
+## Priorisation des cas d'utilisations (16h21)
+1) CA-01
+2) CA-02
+3) CA-03
+4) CA-04
+5) CA-05
+
+## Pieces à conviction
+* Exemple de diaporama qui pourrait être utilisé
+* Exemple d'éditeur de texte
+* Exemple de texte d'un prompteur
+* Exemple de texte
+* Photo d'un prompteur
